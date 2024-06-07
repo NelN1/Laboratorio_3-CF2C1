@@ -1,5 +1,6 @@
 Buenas profesor, el laboratorio contiene lo solicitado.
 Los integrantes son:
+
    Apellidos y Nombres                 Código      Especialidad
 1) Cercado Tirado, Alex              20221306J      Física
 2) Muñoz Díaz, Jose Estalin          20222718J      Física
